@@ -1,12 +1,12 @@
-### jenkinsnote
+# jenkinsnote
 ## Reset Jenkins Admin Credentails
-# 1) Path to check default jenkins admin credenatils 
+### 1) Path to check default jenkins admin credenatils 
 /var/lib/jenkins/secrets/initialAdminPassword
 
-# 2) Path to check jenkins root configuration
+### 2) Path to check jenkins root configuration
 /var/lib/jenkins/config.xml
 
-# 3) If you forgot admin credentails and want to reset 
+### 3) If you forgot admin credentails and want to reset 
 Stop Jenkins
 Go go edit /var/lib/jenkins/config.xml
 Change <useSecurity>true</useSecurity> to false
