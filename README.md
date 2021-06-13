@@ -147,3 +147,6 @@ The Multibranch Pipeline project type enables you to implement different Jenkins
 
 - https://www.jenkins.io/doc/book/pipeline/#scripted-pipeline-fundamentals
 - https://www.jenkins.io/doc/book/pipeline/syntax/
+
+## How to install Maven Plugin in Jenkins?
+- https://www.toolsqa.com/jenkins/jenkins-maven/
